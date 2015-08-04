@@ -1,10 +1,13 @@
 {
   "name": "shippo",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Shippo API wrapper",
   "homepage": "https://github.com/goshippo/shippo-node-client",
   "author": "Tobias Schottdorf",
-  "contributors": ["Eyoel Asfaw", "Wissam Jarjoui"],
+  "contributors": [
+    "Eyoel Asfaw",
+    "Wissam Jarjoui"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/goshippo/shippo-node-client"
@@ -14,8 +17,7 @@
     "node": ">= v0.8.0"
   },
   "main": "lib/shippo.js",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
     "when": "~2.4.0"
   },
